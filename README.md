@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Randy - aka @datafiend
+- 👋 
+<h1>Hi, I'm Randy! <br/><a href="https://github.com/datafiend">Programmer</a>, <a href="https://www.linkedin.com/in/longrandy/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/araki916">YouTuber</a></h1>
 - 👀 I’m interested in python, cybersecurity, data analysis. I have a "real" job in the Energy/Utility space.
 - 🌱 I’m currently learning CCNA, Layer 2/3 devices.
 - 💞️ I’m looking to collaborate on pentesting, audits, ethical hacks.
